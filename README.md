@@ -6,4 +6,4 @@ This is my repository of TouchDesigner patches, ideas and prototypes.
 
 <b>Numpy_Random_Number_Generation</b>: a simple script in DAT Execute to generate 1,000 random numbers between 0 and 0.5
 
-<b>Neon_Lights</b>:neon light rays generators with rays that propagates themselves from center screen to up, down, left and right
+<b>Neon_Lights</b>: neon light rays generators with rays that propagates themselves from center screen to up, down, left and right
